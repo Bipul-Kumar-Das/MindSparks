@@ -4,6 +4,7 @@ Unzip the zipped dataset and save in the project directory along with the other 
 # Medical Image Captioning using ResNet50 (encoder) and LSTM (decoder) 
 
 Execute the resnet50_lstm.py. This implementation is using 30% of available data for both train & test. Implementation details:
+
 Encoder:`Pretrained ResNet50
 	   Output feature vector size = 256
 	   Number of parameters = 24032576
